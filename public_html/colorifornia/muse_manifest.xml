@@ -1,0 +1,41 @@
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1434641800862">
+  <folder name="css">
+    <file name="site_global.css" crc="484082075"/>
+    <file name="index.css" crc="3874122348" ref="index"/>
+    <file name="iefonts_index.css" crc="4145934085" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index"/>
+    <file name="museutils.js" crc="521960461" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4038615763" ref="index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="220831917" ref="index"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="index"/>
+    <file name="touchswipe.js" crc="325405309" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="colorifornia-favicon.ico" crc="369885822" ref="index"/>
+    <file name="bg-c.jpg" crc="4252137184" ref="index"/>
+    <file name="1-c copy.png" crc="4278874888" ref="index"/>
+    <file name="en_generic_rgb_wo_60.png" crc="4263355143" ref="index"/>
+    <file name="03.jpg" crc="522557635" ref="index"/>
+    <file name="02.jpg" crc="410597722" ref="index"/>
+    <file name="01.jpg" crc="4104418514" ref="index"/>
+    <file name="blurred background p1 3.jpg" crc="101171626" ref="index"/>
+    <file name="12.jpg" crc="451673678" ref="index"/>
+    <file name="11.jpg" crc="4249083545" ref="index"/>
+    <file name="22.jpg" crc="51573481" ref="index"/>
+    <file name="23.jpg" crc="4024239421" ref="index"/>
+    <file name="21.jpg" crc="4163962595" ref="index"/>
+    <file name="blurred background p2 3.jpg" crc="4048115199" ref="index"/>
+    <file name="31c.jpg" crc="4059269352" ref="index"/>
+    <file name="42c.jpg" crc="4107082651" ref="index"/>
+    <file name="43c.jpg" crc="4090158788" ref="index"/>
+    <file name="41c.jpg" crc="3833853057" ref="index"/>
+    <file name="en_generic_rgb_wo_45.png" crc="4062872976" ref="index"/>
+  </folder>
+  <file name="index.html" crc="335813648" mt="1434641747509" redirect="true"/>
+</manifest>

@@ -1,0 +1,74 @@
+.version.index /* version checker */
+{
+	color: #000019;
+	background-color: #AE69AB;
+}
+
+.html
+{
+	background-color: #111111;
+}
+
+#page
+{
+	z-index: 1;
+	width: 387px;
+	min-height: 82px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #111111;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 62px 218px 358px 195px;
+}
+
+#u1260
+{
+	z-index: 2;
+	width: 387px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u162
+{
+	z-index: 7;
+	width: 82px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u97-4
+{
+	z-index: 3;
+	width: 286px;
+	min-height: 68px;
+	background-color: transparent;
+	line-height: 58px;
+	text-align: left;
+	font-size: 48px;
+	letter-spacing: 2px;
+	color: #FFFFFF;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 101px;
+}
+
+body
+{
+	position: relative;
+	min-width: 800px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
